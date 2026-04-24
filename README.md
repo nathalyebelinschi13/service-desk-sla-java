@@ -85,7 +85,7 @@ Utilizado para definir diferentes comportamentos de atendimento com base na prio
 1. Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/service-desk-java.git
+git clone https://github.com/nathalyebelinschi13/service-desk-sla-java.git
 ```
 
 2. Abra o projeto no VS Code
